@@ -27,3 +27,4 @@ React (Frontend framework)
 OpenWeatherMap API (Weather data provider)
 
 CSS (Styling)
+updated by Pankaj Joshi
